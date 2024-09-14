@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lajewo.github.io/MaL/sitemap.MaL.gz
